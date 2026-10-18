@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-eval-rubric-grading-and-variance-auditor-skill",
+  "version": "1.0.0",
+  "description": "Grades agent completion outputs across weighted multi-criteria rubrics, computes inter-rater agreement variance, and flags inconsistent outlier score distributions",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
