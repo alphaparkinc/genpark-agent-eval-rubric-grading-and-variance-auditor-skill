@@ -1,0 +1,12 @@
+[project]
+name = "genpark-agent-eval-rubric-grading-and-variance-auditor-skill"
+version = "1.0.0"
+description = "Grades agent completion outputs across weighted multi-criteria rubrics, computes inter-rater agreement variance, and flags inconsistent outlier score distributions"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
